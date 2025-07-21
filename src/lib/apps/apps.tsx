@@ -1,8 +1,6 @@
 import { AppAboutMe } from "@/components/desktop/apps/AppAboutMe";
-import { AppBlog } from "@/components/desktop/apps/AppBlog";
 import { AppContacts } from "@/components/desktop/apps/AppContacts";
 import { AppEducation } from "@/components/desktop/apps/AppEducation";
-import { AppGuestBook } from "@/components/desktop/apps/AppGuestBook";
 import { AppProjects } from "@/components/desktop/apps/AppProjects";
 import { AppTerminal } from "@/components/desktop/apps/AppTerminal";
 import { AppTodo } from "@/components/desktop/apps/AppTodo";
@@ -63,12 +61,6 @@ export function makeMarkdownBasedApps(): Array<DesktopIcon> {
       title: "To-Dos",
       component: <AppTodo />,
     },
-    {
-      iconName: "puzzle.png", // TODO: change
-      appName: "AppGuestBook",
-      title: "Guest Book",
-      component: <AppGuestBook />,
-    },
   ];
 }
 
@@ -79,12 +71,6 @@ export function makeLocalApps(): Array<DesktopIcon> {
       appName: "AppProjects",
       title: "Hobby Projects",
       component: <AppProjects />,
-    },
-    {
-      iconName: "book.png",
-      appName: "AppBlog",
-      title: "Blog",
-      component: <AppBlog />,
     },
     {
       iconName: "terminal.png",
