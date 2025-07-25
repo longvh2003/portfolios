@@ -14,7 +14,7 @@ Major: Information Technology
 
 <br />
 
-`
+`;
 
 export function AppEducation() {
   return <AppMarkdownLayout markdown={md} title="Education" />;
