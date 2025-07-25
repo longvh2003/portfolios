@@ -69,7 +69,7 @@ export function makeLocalApps(): Array<DesktopIcon> {
     {
       iconName: "games.png",
       appName: "AppProjects",
-      title: "Hobby Projects",
+      title: "Projects",
       component: <AppProjects />,
     },
     {

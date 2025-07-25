@@ -1,23 +1,27 @@
 import { AppMarkdownLayout } from "@/components/desktop/apps/layout/AppMarkdownLayout";
 
 const md = `
-# Software Engineer
+# Software Engineer (Frontend)
 
-**Overleaf**
+**SmartDev, Da Nang**
 
-*Feb 2022 - Current, Full-time*
+*Jul 2024 - Current, Full-time*
 
 <br />
 
-What will I write here, I wonder?
+* I worked as a Software engineer at SmartDev . We used NextJS alongside Recoil as state management, React-query and various other tools in our stack.
+* We are building a platform that helps people keep their memories alive by creating a digital legacy. The platform allows users to create and share their stories, photos, and videos with their loved ones.
+* We are supporting multiple languages, including English, French, Dutch and other 10+ languages. The platform is designed to be user-friendly and accessible to everyone, regardless of their technical skills.
+* We also allow user to pay for the service using various payment methods, including credit cards, PayPal, GooglePay and ApplePay.
+* While working there we strived to create our features and components in a scalable/usable way since the scale of our project is pretty big.
 
 <br />
 
 # Software Engineer (Frontend)
 
-**Ruangguru, Indonesia**
+**FPT Software, Da Nang**
 
-*2019 - Aug 2021, Full-time*
+*Sep 2023 - Jul 2024, Full-time*
 
 <br />
 
@@ -25,75 +29,45 @@ Assigned to skillacademy.com team. I worked on:
 
 <br />
 
-1. Skillacademy client-facing web platform. Tech stacks: ReasonML, React + ReasonReact
-    * Helped Build a B2C MOOC platform that includes (but is not limited to): Custom Video Player with DRM, Exam/Quiz Platform, Custom File Upload (for homework).
-    * Implement a cashless payment method (OVO Indonesia) on the frontend with a websocket. I'm the first one to introduce websocket to the whole frontend team.
-    * Main developer for a massive government project named Pra-Kerja that, at some point, is the major contributor to our company revenue.
-    * Maintain the codebase by performing readable & maintainable code principles.
-    * Develop platitude marketing campaigns on the site, including but not limited to: numerous flash sales, referral programs, and other ad-hoc advertisement campaigns.
-    * Mentoring a few newcomers to become productive on our codebase since I have the most domain (at my engineering level) knowledge of the whole application.
+* We are building a platform that helps people find their jobs and connect with employers. The platform allows users to create and share their resumes, search for jobs, and apply for jobs online.
+* We are supporting multiple languages, including English, Japansese. The platform is designed to be user-friendly and accessible to everyone, regardless of their technical skills.
 
 <br />
 
-2. Skillacademy Content Management System (CMS). Tech stack: Typescript and React
-    * Initiate the rewrite of our CMS from javascript to typescript. This is one of the first typescript apps for the whole frontend team. We previously use Javascript + Flow or ReasonML for the frontend codebase.
-    * Develop dynamic UI screen project for skillacademy where admin can change some parts of the UI of skillacademy.com with drag and drop method. This is useful for marketing campaigns too. (UNRELEASE -- SAD)
- 
-<br />
+# Software Engineer (Frontend)
 
-3. Skillacademy Cordova Platform for mobile application. Tech stack: Cordova.
-    * I'm one of the maintainers of the Cordova application that used to be our main stack for the mobile application before the app was rewritten to react-native.
+**NashTech, Ha Noi**
+
+*Jul 2022 - Aug 2023*
 
 <br />
 
-# Technical Founder
-
-**Sirius Teknologi Indonesia**
-
-*2019 - 2020*
+* We used "Composite" design pattern to help client reduce time to access their data. The pattern allows us to create a tree structure of objects that can be treated as a single object. This allows us to create a hierarchy of objects that can be easily manipulated and accessed.
+* I wrote unit tests for The Hut Group Team 4 application. Improved the accessibility of the project (WCAG 2.1 AA).
+* While working there we strived to create our features and components in a scalable/usable way since the scale of our project is pretty big.
 
 <br />
 
-A software agency focused on web and mobile application.
+# Frontend Engineer (Frontend)
 
-<br />
+**VMO Holdings , Ha Noi**
 
-Project:
-
-<br />
-
-1. Built a document management system for an indonesian airline
-   - Backend web application. Tech stacks: Typescript, NodeJS, Azure
-   - Frontend web application. Tech stacks: Typescript, React, Redux
-   - Mobile application. Tech stacks: Typescript, React Native, Redux
-   - DevOps: Azure Web App for both frontend and backend, and Azure DevOps for CI/CD platform.
-
-<br />
-
-# Frontend Engineer
-
-**Codemi, Indonesia**
-
-*2018 - 2019, Full-time*
+*Aug 2020 - Oct 2020, Full-time*
 
 <br />
    
-- Developed and maintained learning management system frontend in javascript & reactJS, both client side and admin dashboard
-- Developed an online course platform frontend using javascript & reactJS
-   
-<br />
-
-# Math, Physics, & Engineering course Tutor
-   
-**Smart Privat, Indonesia**
-
-*2014 - 2017, Part-time*
+* I worked as a Frontend Engineer at VMO Holdings, where I was responsible for developing and maintaining the frontend of various web applications. 
+* We used ReactJS, NextJS, and TypeScript to build scalable and maintainable web applications.
+* I was involved in the development of several projects, a web application for a client in the education industry, a web application for a client in the e-commerce industry, etc.
 
 <br />
-   
-- Taught mathematics & physics to a first year students at Bandung Institute of Technology
-- Taught programming (C++) & engineering course to a second year student at Bandung Institute of Technology
-   
+
+# Fresher Frontend Engineer (Frontend)
+
+**FPT Software, Ha Noi**
+
+*Dec 2020 - Jun 2022, Full-time*
+
 `;
 
 export function AppWorkHistory() {
