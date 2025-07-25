@@ -25,10 +25,6 @@ const md = `
 
 <br />
 
-Assigned to skillacademy.com team. I worked on:
-
-<br />
-
 * We are building a platform that helps people find their jobs and connect with employers. The platform allows users to create and share their resumes, search for jobs, and apply for jobs online.
 * We are supporting multiple languages, including English, Japansese. The platform is designed to be user-friendly and accessible to everyone, regardless of their technical skills.
 
